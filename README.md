@@ -1,4 +1,4 @@
-## Hi there!<div class="tenor-gif-embed" data-postid="9442662" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/hello-there-hi-there-greetings-gif-9442662">Hello There Hi There GIF</a>from <a href="https://tenor.com/search/hello+there-gifs">Hello There GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+## Hi there!<img src="https://c.tenor.com/6us3et_6HDoAAAAC/hello-there-hi-there.gif" width="30px">
 
 <!--
 **OlandoP-dot/OlandoP-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
