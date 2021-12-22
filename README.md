@@ -8,4 +8,6 @@
 - Looking to do more projects involving the integration of various elements.
 
 ---
-[<img src="https://cdn.svgporn.com/logos/python.svg" width="60px" height="60px" href="google.com"/>](https://google.com)
+[<img src="https://cdn.svgporn.com/logos/python.svg" width="60px" height="60px"/>](https://www.python.org/)
+[<img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="60px" height="60px"/>](https://www.isocpp.org/)
+
