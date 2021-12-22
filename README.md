@@ -1,4 +1,4 @@
-## Hi there!<img src="https://c.tenor.com/6us3et_6HDoAAAAC/hello-there-hi-there.gif" width="30px">
+## Hi there!<img src="https://c.tenor.com/6us3et_6HDoAAAAC/hello-there-hi-there.gif" width="100px">
 
 <!--
 **OlandoP-dot/OlandoP-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
