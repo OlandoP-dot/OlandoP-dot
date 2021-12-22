@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there!<img src="https://tenor.com/view/hello-there-hi-there-greetings-gif-9442662" width="30px">
 
 <!--
 **OlandoP-dot/OlandoP-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
