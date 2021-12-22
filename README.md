@@ -24,3 +24,5 @@
 [<img src="https://cdn.svgporn.com/logos/flask.svg" width="60px" height="60px"/>](https://flask.palletsprojects.com/en/2.0.x/)
 [<img src="https://cdn.svgporn.com/logos/ubuntu.svg" width="60px" height="60px"/>](https://ubuntu.com/)
 
+---
+## Feel free to reach out: [<img src="https://cdn.svgporn.com/logos/linkedin.svg" width="60px" height="60px"/>](https://www.linkedin.com/in/orlando-liantaud/)
