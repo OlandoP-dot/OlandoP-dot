@@ -25,4 +25,4 @@
 [<img src="https://cdn.svgporn.com/logos/ubuntu.svg" width="60px" height="60px"/>](https://ubuntu.com/)
 
 ---
-### Feel free to reach out: [<img src="https://cdn.svgporn.com/logos/linkedin.svg" width="60px" height="60px"/>](https://www.linkedin.com/in/orlando-liantaud/)
+### Feel free to reach out: [<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="60px" height="60px"/>](https://www.linkedin.com/in/orlando-liantaud/)
