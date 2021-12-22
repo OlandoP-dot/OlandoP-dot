@@ -16,5 +16,5 @@
 [<img src="https://cdn.svgporn.com/logos/php.svg" width="60px" height="60px"/>](https://www.php.net/)
 [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="60px" height="60px"/>](https://dev.mysql.com/)
 [<img src="https://cdn.svgporn.com/logos/google-cloud.svg" width="60px" height="60px"/>](https://cloud.google.com/)
-[<img src="https://cdn.svgporn.com/logos/github-icon.svg" width="60px" height="60px"/>](https://github.com/)
+[<img src="https://cdn.svgporn.com/logos/github-octocat.svg" width="60px" height="60px"/>](https://github.com/)
 [<img src="" width="60px" height="60px"/>]()
